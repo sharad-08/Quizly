@@ -29,12 +29,4 @@ A dynamic and interactive quiz application built with vanilla JavaScript. This p
     * Simply double-click the `index.html` file to open it in your browser.
     * **OR** use the "Live Server" extension in VS Code for the best experience.
 
-## 📂 Project Structure
 
-```text
-├── index.html       # Main HTML file
-├── style.css        # CSS styling
-├── script.js        # JavaScript logic (Timer, Sound, Scoring)
-├── assets/          # Folder for audio files
-│   └── click.mp3    # Sound effect file
-└── README.md        # Documentation
